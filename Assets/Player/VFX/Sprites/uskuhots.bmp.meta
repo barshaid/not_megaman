@@ -1,0 +1,2959 @@
+fileFormatVersion: 2
+guid: e4a1bf84c82c43142833ba249e79c142
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5059857971824337766
+    second: uskuhots_0
+  - first:
+      213: 2820131891320435454
+    second: uskuhots_1
+  - first:
+      213: 3954620591288720136
+    second: uskuhots_2
+  - first:
+      213: 9141614599837395181
+    second: uskuhots_3
+  - first:
+      213: -5802540435115578099
+    second: uskuhots_4
+  - first:
+      213: -1686543013284665791
+    second: uskuhots_5
+  - first:
+      213: -179096518754766967
+    second: uskuhots_6
+  - first:
+      213: 2347430009580682225
+    second: uskuhots_7
+  - first:
+      213: -8267440509127618264
+    second: uskuhots_8
+  - first:
+      213: -2409981686608216926
+    second: uskuhots_9
+  - first:
+      213: 6370462243425522701
+    second: uskuhots_10
+  - first:
+      213: -8897150717898796026
+    second: uskuhots_11
+  - first:
+      213: 9078393892095577063
+    second: uskuhots_12
+  - first:
+      213: -1048036283594628768
+    second: uskuhots_13
+  - first:
+      213: 2814956522238322824
+    second: uskuhots_14
+  - first:
+      213: 6327064277323357556
+    second: uskuhots_15
+  - first:
+      213: -6216677620933381193
+    second: uskuhots_16
+  - first:
+      213: -2363919938038256021
+    second: uskuhots_17
+  - first:
+      213: 3443758322252718454
+    second: uskuhots_18
+  - first:
+      213: -8663267222292799414
+    second: uskuhots_19
+  - first:
+      213: -7693439127074918795
+    second: uskuhots_20
+  - first:
+      213: 8058857675178371993
+    second: uskuhots_21
+  - first:
+      213: -5270296671873049146
+    second: uskuhots_22
+  - first:
+      213: 5693772759988685929
+    second: uskuhots_23
+  - first:
+      213: -6032294417567731941
+    second: uskuhots_24
+  - first:
+      213: 508326704821488072
+    second: uskuhots_25
+  - first:
+      213: -7152989893013228861
+    second: uskuhots_26
+  - first:
+      213: -4358075686373208920
+    second: uskuhots_27
+  - first:
+      213: -8596859119466031607
+    second: uskuhots_28
+  - first:
+      213: 2378087305805361323
+    second: uskuhots_29
+  - first:
+      213: 4692071628368999794
+    second: uskuhots_30
+  - first:
+      213: 8749542925987738585
+    second: uskuhots_31
+  - first:
+      213: -6329492009405949943
+    second: uskuhots_32
+  - first:
+      213: -8621561797690717768
+    second: uskuhots_33
+  - first:
+      213: 8115166936384965948
+    second: uskuhots_34
+  - first:
+      213: 61461438817075888
+    second: uskuhots_35
+  - first:
+      213: -7005846137316082537
+    second: uskuhots_36
+  - first:
+      213: 632293451026562230
+    second: uskuhots_37
+  - first:
+      213: -7584087482538958396
+    second: uskuhots_38
+  - first:
+      213: -7424363348554378555
+    second: uskuhots_39
+  - first:
+      213: 8539115527702090104
+    second: uskuhots_40
+  - first:
+      213: -4558202234897869024
+    second: uskuhots_41
+  - first:
+      213: 3118174717259686322
+    second: uskuhots_42
+  - first:
+      213: -8923926050027829869
+    second: uskuhots_43
+  - first:
+      213: 6525507339330786506
+    second: uskuhots_44
+  - first:
+      213: -8669568970541790847
+    second: uskuhots_45
+  - first:
+      213: 1150339082412070897
+    second: uskuhots_46
+  - first:
+      213: -7220873668771948511
+    second: uskuhots_47
+  - first:
+      213: -5510931766630216104
+    second: uskuhots_48
+  - first:
+      213: -2608941569444835664
+    second: uskuhots_49
+  - first:
+      213: 6592041729932684566
+    second: uskuhots_50
+  - first:
+      213: 5881074779437951230
+    second: uskuhots_51
+  - first:
+      213: -5144961852368090951
+    second: uskuhots_52
+  - first:
+      213: 4953789356525306958
+    second: uskuhots_53
+  - first:
+      213: -5259573910269755519
+    second: uskuhots_54
+  - first:
+      213: 3602853302709777338
+    second: uskuhots_55
+  - first:
+      213: 9091212932778700055
+    second: uskuhots_56
+  - first:
+      213: -8750171230533707954
+    second: uskuhots_57
+  - first:
+      213: -638269503782501865
+    second: uskuhots_58
+  - first:
+      213: -8595547410943110904
+    second: uskuhots_59
+  - first:
+      213: -3659760301252166126
+    second: uskuhots_60
+  - first:
+      213: 3640342557740994667
+    second: uskuhots_61
+  - first:
+      213: -1843877926582504612
+    second: uskuhots_62
+  - first:
+      213: 7354311836412271294
+    second: uskuhots_63
+  - first:
+      213: 823865616061983815
+    second: uskuhots_64
+  - first:
+      213: -1687849830968666892
+    second: uskuhots_65
+  - first:
+      213: 4586439041247479834
+    second: uskuhots_66
+  - first:
+      213: 4314064429541264382
+    second: uskuhots_67
+  - first:
+      213: 7818273861192608447
+    second: uskuhots_68
+  - first:
+      213: 6252158848110647634
+    second: uskuhots_69
+  - first:
+      213: 8848128661035562814
+    second: uskuhots_70
+  - first:
+      213: -289449801863751314
+    second: uskuhots_71
+  - first:
+      213: 3945977488625641733
+    second: uskuhots_72
+  - first:
+      213: -4080953602779049352
+    second: uskuhots_73
+  - first:
+      213: -9157326386371466381
+    second: uskuhots_74
+  - first:
+      213: 4779143457034275561
+    second: uskuhots_75
+  - first:
+      213: 3629095542593671415
+    second: uskuhots_76
+  - first:
+      213: -4995484286216312143
+    second: uskuhots_77
+  - first:
+      213: 5617492085664623677
+    second: uskuhots_78
+  - first:
+      213: 4544355174016838307
+    second: uskuhots_79
+  - first:
+      213: 6404638109428129093
+    second: uskuhots_80
+  - first:
+      213: -4554471841980692017
+    second: uskuhots_81
+  - first:
+      213: -5591060028511994152
+    second: uskuhots_82
+  - first:
+      213: -8160388462807453576
+    second: uskuhots_83
+  - first:
+      213: 7794357049371873051
+    second: uskuhots_84
+  - first:
+      213: 2918912185616380660
+    second: uskuhots_85
+  - first:
+      213: 4627429164723120117
+    second: uskuhots_86
+  - first:
+      213: -915123481980406579
+    second: uskuhots_87
+  - first:
+      213: -1935002634005318551
+    second: uskuhots_88
+  - first:
+      213: 203941887260561315
+    second: uskuhots_89
+  - first:
+      213: -2829789674767257210
+    second: uskuhots_90
+  - first:
+      213: -4697249602223450706
+    second: uskuhots_91
+  - first:
+      213: 4185483837138789497
+    second: uskuhots_92
+  - first:
+      213: -607158542261765094
+    second: uskuhots_93
+  - first:
+      213: 5565187836205703447
+    second: uskuhots_94
+  - first:
+      213: 6845718803283053164
+    second: uskuhots_95
+  - first:
+      213: -7646276504480195564
+    second: uskuhots_96
+  - first:
+      213: -3623672932197230232
+    second: uskuhots_97
+  - first:
+      213: 4760562008663655968
+    second: uskuhots_98
+  - first:
+      213: 720994410698836993
+    second: uskuhots_99
+  - first:
+      213: 2909968066759896841
+    second: uskuhots_100
+  - first:
+      213: 5004242246904417072
+    second: uskuhots_101
+  - first:
+      213: -634088427872311858
+    second: uskuhots_102
+  - first:
+      213: 1087399394294860935
+    second: uskuhots_103
+  - first:
+      213: -986849664450049670
+    second: uskuhots_104
+  - first:
+      213: -8473669316740337058
+    second: uskuhots_105
+  - first:
+      213: 2898281705045120904
+    second: uskuhots_106
+  - first:
+      213: 1458918268986154509
+    second: uskuhots_107
+  - first:
+      213: -3887893752952954138
+    second: uskuhots_108
+  - first:
+      213: -8017541487036222118
+    second: uskuhots_109
+  - first:
+      213: 2942047163217541790
+    second: uskuhots_110
+  - first:
+      213: -3459844219803658985
+    second: uskuhots_111
+  - first:
+      213: 6235835151169256428
+    second: uskuhots_112
+  - first:
+      213: 7137966294130190826
+    second: uskuhots_113
+  - first:
+      213: -6093792026870456097
+    second: uskuhots_114
+  - first:
+      213: 2706033857965268988
+    second: uskuhots_115
+  - first:
+      213: -6076213843610235003
+    second: uskuhots_116
+  - first:
+      213: -463269910532696696
+    second: uskuhots_117
+  - first:
+      213: -2759991070297406545
+    second: uskuhots_118
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uskuhots_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 481
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d527d0f6029955e40aed561351c3da95
+      internalID: -5059857971824337766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 481
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468c83c4050a5ad4a878c312f4433ee4
+      internalID: 2820131891320435454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 481
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abb3d9e775447b489f6e9eae290a134
+      internalID: 3954620591288720136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 481
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8a1fe31e32f444baf5bd2ca056da28
+      internalID: 9141614599837395181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 481
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c225371caa3c8b24390b6135a2ca7598
+      internalID: -5802540435115578099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 481
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb6877f2aa54c54e87d9fa3fe1abd45
+      internalID: -1686543013284665791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 481
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6178819e43fe096459835712f3673dbf
+      internalID: -179096518754766967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 481
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2c97610b1565f4baceef1c119e6727
+      internalID: 2347430009580682225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 481
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae494688b85d8e4eb85ecbb378c5623
+      internalID: -8267440509127618264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 481
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d784802c5211f4c43921cffbcb53ff74
+      internalID: -2409981686608216926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 480
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf40394f4c45d349b534b07e7e68b5b
+      internalID: 6370462243425522701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 480
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727e51494c88b7047b183ac5dae1a40a
+      internalID: -8897150717898796026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 480
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094b7645f1259d54cbe23409ed621952
+      internalID: 9078393892095577063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 480
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69d40aeb85974244ba935c7dae35ab6
+      internalID: -1048036283594628768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 480
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90394a4e1dce1ce4483d375a6a70906e
+      internalID: 2814956522238322824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 480
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f655991b8032bbe4383c2728830c3390
+      internalID: 6327064277323357556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 480
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377ac49eb0af7314fb16f8db9f0f096c
+      internalID: -6216677620933381193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 480
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3107aa6f9acf3f542b97a0b211a8d160
+      internalID: -2363919938038256021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_18
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 480
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1f790b9d9cb547a4060506d737ec7
+      internalID: 3443758322252718454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 480
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb417b6e1907764abdb671ed39de806
+      internalID: -8663267222292799414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 480
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec7ed86d47eef74fa3ad00bd443d76a
+      internalID: -7693439127074918795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 423
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd046ef97c8d8f1408e9604a20da0c71
+      internalID: 8058857675178371993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 423
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2e587fa0367cc478feb2bc784c08f2
+      internalID: -5270296671873049146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 423
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4369a08877a884ab8ff074f6d7b1ca
+      internalID: 5693772759988685929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 423
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba89ba15b38be949b9717d1ca1deab5
+      internalID: -6032294417567731941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 423
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811e5fbe3835e7d4f9da5d17918e5c9f
+      internalID: 508326704821488072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 423
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931812683f35b974faa975462c7c0706
+      internalID: -7152989893013228861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 423
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3eaab9fac47584bb42f06470a71cf1
+      internalID: -4358075686373208920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c984de306efe874b9ebd7447474932d
+      internalID: -8596859119466031607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 428
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d875b819a9b04be45bec9c39a46b1d91
+      internalID: 2378087305805361323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 428
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1af26a2066b2d4190cc5318c064204
+      internalID: 4692071628368999794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 428
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc613c7d0185b614ab3cf40ca2286d4a
+      internalID: 8749542925987738585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 428
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1d320ffa235b24fbf00620f77ee1b1
+      internalID: -6329492009405949943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 428
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f7731ef4658ba4da34832e198d440d
+      internalID: -8621561797690717768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 428
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8d5a38903bbe947bb179116b99f5fc
+      internalID: 8115166936384965948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_35
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 428
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7e48c153f135499c3768c1ee5fd0d
+      internalID: 61461438817075888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 428
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf22afa8c39b9d43afe49c2f2822ad3
+      internalID: -7005846137316082537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 428
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3816d79665717d4084933ab45b9623d
+      internalID: 632293451026562230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_38
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 428
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fad558fad97e44480bdcfd3b8a17d7
+      internalID: -7584087482538958396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 375
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186de6f6e5fe59a47a3809f122769545
+      internalID: -7424363348554378555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 375
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f48339491913144fa6f830eed5cdf07
+      internalID: 8539115527702090104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 375
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a081e3c36bdcb4c97f37f259bf2ca4
+      internalID: -4558202234897869024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 375
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9128936216952f242839672df08f5160
+      internalID: 3118174717259686322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 375
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce706ae8b502aa24190a62c8a78f0ace
+      internalID: -8923926050027829869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 375
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940746bd4b6b7e2429205de0e700b15a
+      internalID: 6525507339330786506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_45
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 375
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebcece419039f54d85e2bce500b4e17
+      internalID: -8669568970541790847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_46
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 375
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67289a683d3c8b347a21855c889a9478
+      internalID: 1150339082412070897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 375
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1651166b33fb0f34b90f65db7bb66430
+      internalID: -7220873668771948511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_48
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 376
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6283ff5cda3fd340832d7b76b0dd377
+      internalID: -5510931766630216104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_49
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 376
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477eeda75fc533041a3f89f5c05dacad
+      internalID: -2608941569444835664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_50
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 370
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3e12740d84d664fb421c75d4eda582
+      internalID: 6592041729932684566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_51
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 370
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec03c680600b89448a7e905aba96489
+      internalID: 5881074779437951230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_52
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 370
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ab1481533b1154aacb7af7ecf0b82d
+      internalID: -5144961852368090951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_53
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 370
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1048355c072076429df8c700156a86a
+      internalID: 4953789356525306958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_54
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 370
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e427b4b2b27cc2a4fac2ce8debef50d9
+      internalID: -5259573910269755519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 332
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ccedbe96b50024a88243a6c9b37719
+      internalID: 3602853302709777338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 332
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae783b6b4981494bb832d56a47b5637
+      internalID: 9091212932778700055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 332
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfddf17b27a86a6449fe09e19cb3aeec
+      internalID: -8750171230533707954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 332
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff83bdac410e8b45ae241cc87213613
+      internalID: -638269503782501865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_59
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 332
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb3afffac908a14daf89cc53369e4e0
+      internalID: -8595547410943110904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_60
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 332
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d469b85046bf744b2ad955a5b6cf67
+      internalID: -3659760301252166126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_61
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 332
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2babaa54537e2e44a87ffd1a785fbfe
+      internalID: 3640342557740994667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 332
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e033c992e7b80574fb43b436c4d32ba8
+      internalID: -1843877926582504612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 332
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430ecfd4e27d5c744ae7c645dc4ed6f5
+      internalID: 7354311836412271294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_64
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 256
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2d4935507354b439e72a64d6b2eadf
+      internalID: 823865616061983815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_65
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 171
+        width: 112
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3bc6b9c68e7ca4faf1550b5da4f0d3
+      internalID: -1687849830968666892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 279
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4909490ce203e0945b63deb841db528c
+      internalID: 4586439041247479834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 279
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64831c2d5f52ce54d92b9551ccd5b13f
+      internalID: 4314064429541264382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 279
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b360bd3ce1301304ba42593bc5be7fa9
+      internalID: 7818273861192608447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 279
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891f2352817118448a7f4504fab6c73
+      internalID: 6252158848110647634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 279
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bf844408f89bf4cb1e0ddea3224d43
+      internalID: 8848128661035562814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 273
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bcd7e111594dd45a32affaec87fea3
+      internalID: -289449801863751314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 273
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102ce75bbb75d944ba73e49f7e705732
+      internalID: 3945977488625641733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 276
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b7e5bdf659784c8fc236addd0ac0f
+      internalID: -4080953602779049352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_74
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 276
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcef60161fc76b4f8e03dc77b52f7f3
+      internalID: -9157326386371466381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 273
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbd2f4e332e8874797fe9702b9a1aa1
+      internalID: 4779143457034275561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_76
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 285
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5d31ca64a74064c9022d730ef10c4e
+      internalID: 3629095542593671415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 290
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b14bd317ef7311438e5d92d07743438
+      internalID: -4995484286216312143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_78
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 274
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181eb935e0cd19d45849859cbd74d07f
+      internalID: 5617492085664623677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_79
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 232
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b9854c22e0154cb70cef2fd0e7493
+      internalID: 4544355174016838307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_80
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 231
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb725f96ab9432448217bf8c6fb6a28
+      internalID: 6404638109428129093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 233
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0910dd64a8021764c9a50127b7567931
+      internalID: -4554471841980692017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 232
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b067999527ab1c479b2669b402214c1
+      internalID: -5591060028511994152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 233
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f45aa4c65ce24f48912966f6bb5860e
+      internalID: -8160388462807453576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 181
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcad7e7d92fde34cb653436447ce322
+      internalID: 7794357049371873051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 181
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4342d448843a3aa42823ca6611bb05fb
+      internalID: 2918912185616380660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 181
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9e24a39346074d8249d672dd4dd2d
+      internalID: 4627429164723120117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_87
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 177
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9082160003b4c8143b808485d76c4b2d
+      internalID: -915123481980406579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_88
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 181
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2094583b15341b644b09b73784942e67
+      internalID: -1935002634005318551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_89
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 177
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039699457b7f3bd44afa4c6132db2351
+      internalID: 203941887260561315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 181
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d392459255bf534794c1a57c574c984
+      internalID: -2829789674767257210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 177
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf00ae9a23250f4693778164ee138b4
+      internalID: -4697249602223450706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_92
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 181
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5801d0146e03c304b8ba646648f0304b
+      internalID: 4185483837138789497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_93
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 181
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0bd7bb6d08d2e4a8baf91239ab4b1c
+      internalID: -607158542261765094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_94
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 181
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4383e9b059e6244478f17548fcdeab6f
+      internalID: 5565187836205703447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_95
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 184
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3d6ef8654c89741b3e81d5efc8e2d6
+      internalID: 6845718803283053164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42fb5bdc03ed074f95a7213daeefbef
+      internalID: -7646276504480195564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_97
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 146
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f92adf493d99344914043caf68a019
+      internalID: -3623672932197230232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 141
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd4047ed1fc4ca4a899a38d67ebe4b4
+      internalID: 4760562008663655968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_99
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 146
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db850564d53f644681b02ac7329cbc5
+      internalID: 720994410698836993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 149
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7525189b3f3bee94da4dd15c82837955
+      internalID: 2909968066759896841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_101
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 147
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6164b62f1be7b4a956a8af4648a165
+      internalID: 5004242246904417072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_102
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 146
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cba52e36f9a0b4a9e687a1a0a5e466
+      internalID: -634088427872311858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_103
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 143
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b030535082d1604cb03d6e73e449d63
+      internalID: 1087399394294860935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_104
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 106
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc5f3f89d8f89549b7499c345b9382f
+      internalID: -986849664450049670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_105
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ce5a6eed9f62e4091c019ca0404263
+      internalID: -8473669316740337058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_106
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 102
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715c6e6de1e2fa8429bdc8aa84c15d91
+      internalID: 2898281705045120904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_107
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 99
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82dc5713d35e8d4fa2c013bad97d5f1
+      internalID: 1458918268986154509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_108
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff331970400d704ea68304e558534cd
+      internalID: -3887893752952954138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_109
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd951582ccf16384f997ec5ce3776946
+      internalID: -8017541487036222118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_110
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 57
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e933f85bd678861498801eb6bfde76cf
+      internalID: 2942047163217541790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63dc5b41f47a54885bd4f7e411dbea
+      internalID: -3459844219803658985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_112
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 56
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901f3703c4d4c5b49a3659d4bfdb003a
+      internalID: 6235835151169256428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_113
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 61
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a725a256cbffe458ed4f365494dd9a
+      internalID: 7137966294130190826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250f64fe7d3a37841bd86d0c1a9a1910
+      internalID: -6093792026870456097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_115
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 25
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de689949ac6ffd040bc0f23eb916cb79
+      internalID: 2706033857965268988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_116
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92269f9e5d91934b9ce18f4151ea7a1
+      internalID: -6076213843610235003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_117
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84043034560cb114993a782c3892300c
+      internalID: -463269910532696696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uskuhots_118
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 15
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac609294356414a8e93f71d1e045a2
+      internalID: -2759991070297406545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
