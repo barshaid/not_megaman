@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2232263313328314279}
   - component: {fileID: 2801181414325644856}
   - component: {fileID: 8810140719490561934}
+  - component: {fileID: 3037372775034215879}
   m_Layer: 0
   m_Name: uskuhots_96
   m_TagString: Untagged
@@ -91,6 +92,33 @@ MonoBehaviour:
   m_GameObject: {fileID: 4409862653660411618}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1f722d451078f504080222e977e9876f, type: 3}
+  m_Script: {fileID: 11500000, guid: fb3b23abcc63a0642804f6b06ee497b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 5
+--- !u!61 &3037372775034215879
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4409862653660411618}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.08, y: 0.06}
+    newSize: {x: 0.08, y: 0.06}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.08, y: 0.06}
+  m_EdgeRadius: 0

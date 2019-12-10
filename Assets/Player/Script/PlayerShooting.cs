@@ -6,10 +6,14 @@ public class PlayerShooting : MonoBehaviour
 {
     public float fireRate;
     public GameObject projectileObject;
-    public float nextFire;
+    private float nextFire;
+    private Vector2 megabuster;
+
+    public float NextFire { get => nextFire; set => nextFire = value; }
 
     void Update()
     {
+        megabuster = transform.GetChild(1).transform.position;
         if (Input.GetKey(KeyCode.LeftControl))
         {
             
@@ -22,12 +26,12 @@ public class PlayerShooting : MonoBehaviour
         if (Input.GetKey(KeyCode.LeftControl))
         {
             GetComponentInParent<Animator>().SetBool("shoot", true);
-            if (Time.time > nextFire)
+            if (Time.time > NextFire)
             {
-                Instantiate(projectileObject, transform.position, Quaternion.Euler(Vector3.zero));
+                Instantiate(projectileObject, megabuster, Quaternion.Euler(Vector3.zero));
                 
 
-                nextFire = Time.time + 1 / fireRate;
+                NextFire = Time.time + 1 / fireRate;
             }
         }
     }
