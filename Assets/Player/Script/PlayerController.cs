@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+ 
+    private void OnCollisionEnter2D(Collision2D col)
     {
-        
-    }
+        if (col.transform.tag == "Enemy")
+        {
 
-    // Update is called once per frame
-    void Update()
-    {
+            GetComponent<Animator>().SetBool("hurt", true);
+
+            Time.timeScale = 0.25f;
+        }
         
     }
 }

@@ -13,7 +13,7 @@ public class PlayerShooting : MonoBehaviour
 
     void Update()
     {
-        megabuster = transform.GetChild(1).transform.position;
+        megabuster = transform.GetChild(0).transform.position;
         if (Input.GetKey(KeyCode.LeftControl))
         {
             

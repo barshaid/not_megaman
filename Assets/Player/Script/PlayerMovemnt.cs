@@ -7,8 +7,29 @@ public class PlayerMovemnt : MonoBehaviour
     private bool grounded = false;
     public float hSpeed = 3.0f;
     public float jForce = 3.0f;
+    public LayerMask groundLayer;
+
+    bool isGrounded()
+    {
+
+        Vector2 position = transform.position;
+        Vector2 direction = Vector2.down;
+        float distance = 0.5f;
+
+   
+        
+        RaycastHit2D hit = Physics2D.Raycast(position, direction, distance, groundLayer);
+        if (hit.collider != null)
+        {
+            return true;
+        }
+
+        return false;
+    }
+
     void Update()
     {
+        //Time.timeScale = 0.1f;
         Vector3 myScale = transform.localScale;
         bool rotate = false;
         
@@ -23,12 +44,15 @@ public class PlayerMovemnt : MonoBehaviour
             rotate = true;
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && grounded)
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded())
         {
             GetComponent<Rigidbody2D>().AddForce(transform.up * jForce, ForceMode2D.Impulse);
             GetComponent<Animator>().SetBool("jump", true);
         }
-        
+        else
+            GetComponent<Animator>().SetBool("jump", false);
+        GetComponent<Animator>().SetBool("land", isGrounded());
+
 
 
         if (rotate)
@@ -46,24 +70,7 @@ public class PlayerMovemnt : MonoBehaviour
     }
 
 
-    private void OnCollisionExit2D(Collision2D col)
-    {
-        if (col.transform.tag == "Platform")
-        {
-            grounded = false;
-        }
-        
-
-    }
-    private void OnCollisionEnter2D(Collision2D col)
-    {
-        if (col.transform.tag == "Platform")
-        {
-            grounded = true;
-            GetComponent<Animator>().SetBool("jump", false);
-        }
-
-
-    }
+    
+ 
 }
  

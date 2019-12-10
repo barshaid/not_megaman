@@ -2,23 +2,21 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class lemonShot : MonoBehaviour
+public class enemyWalk : MonoBehaviour
 {
 
     public float speed = 1.0f;
     bool direction;
     void Start()
     {
-        if (GameObject.Find("Player").transform.localScale.x > 0)
+        if (transform.localScale.x < 0)
         {
             direction = true;
         }
         else
             direction = false;
     }
-    
 
-  
 
     void Update()
     {
@@ -26,15 +24,6 @@ public class lemonShot : MonoBehaviour
             transform.Translate(Vector2.right * speed * Time.deltaTime);
         else
             transform.Translate(Vector2.left * speed * Time.deltaTime);
-
-      
     }
 
-    private void OnBecameInvisible()
-    {
-        Destroy(gameObject);
-
-    }
 }
-
-
