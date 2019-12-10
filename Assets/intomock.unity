@@ -838,7 +838,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 141386150}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.693, y: -0.2494539, z: 25.954472}
+  m_LocalPosition: {x: 13.65, y: 0.13, z: 25.954472}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1680516223}
@@ -945,6 +945,7 @@ GameObject:
   - component: {fileID: 208614838}
   - component: {fileID: 208614840}
   - component: {fileID: 208614839}
+  - component: {fileID: 208614841}
   m_Layer: 0
   m_Name: SNES - Mega Man X - Enemies 1_57
   m_TagString: Enemy
@@ -1083,7 +1084,19 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 7
+--- !u!114 &208614841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 208614835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5521976c372ca6f42b5da6f6f7722254, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &213136799
 GameObject:
   m_ObjectHideFlags: 0
@@ -1093,6 +1106,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 213136800}
+  - component: {fileID: 213136801}
+  - component: {fileID: 213136802}
   m_Layer: 0
   m_Name: Gun1
   m_TagString: Untagged
@@ -1114,6 +1129,47 @@ Transform:
   m_Father: {fileID: 208614837}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &213136801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 213136799}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97a3613013213ff4bac8ff656ea05c6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Projectile: {fileID: 5945223985962078855, guid: 977102fcb86d9994c945cc8b6a43464b,
+    type: 3}
+  fireRate: 5
+--- !u!61 &213136802
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 213136799}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -1.5952883, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.1905766, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &219087390
 GameObject:
   m_ObjectHideFlags: 0
@@ -1215,6 +1271,63 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 10.352529, y: 0.295681}
   m_EdgeRadius: 0
+--- !u!1 &225525794
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 225525796}
+  - component: {fileID: 225525795}
+  m_Layer: 0
+  m_Name: Pit
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &225525795
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 225525794}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.8689418, y: -0.082196236}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 20.82117, y: 0.8356075}
+  m_EdgeRadius: 0
+--- !u!4 &225525796
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 225525794}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.23, y: -2.03, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &226023038
 GameObject:
   m_ObjectHideFlags: 0
@@ -2967,6 +3080,7 @@ GameObject:
   - component: {fileID: 708739749}
   - component: {fileID: 708739748}
   - component: {fileID: 708739750}
+  - component: {fileID: 708739751}
   m_Layer: 0
   m_Name: SNES - Mega Man X - Enemies 1_97
   m_TagString: Enemy
@@ -3117,6 +3231,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.4
+--- !u!114 &708739751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 708739744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5521976c372ca6f42b5da6f6f7722254, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &733587996
 GameObject:
   m_ObjectHideFlags: 0
@@ -3167,6 +3293,7 @@ GameObject:
   - component: {fileID: 751948275}
   - component: {fileID: 751948274}
   - component: {fileID: 751948273}
+  - component: {fileID: 751948276}
   m_Layer: 0
   m_Name: SNES - Mega Man X - Enemies 1_105
   m_TagString: Enemy
@@ -3318,6 +3445,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.37, y: 0.37}
   m_EdgeRadius: 0
+--- !u!114 &751948276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 751948269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5521976c372ca6f42b5da6f6f7722254, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &770964109
 GameObject:
   m_ObjectHideFlags: 0
@@ -4653,7 +4792,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 938562417}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 383892bc12a6ad2409023863f8792ad9, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -4946,6 +5085,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 990453996}
+  - component: {fileID: 990453997}
+  - component: {fileID: 990453998}
   m_Layer: 0
   m_Name: Gun2
   m_TagString: Untagged
@@ -4967,6 +5108,47 @@ Transform:
   m_Father: {fileID: 208614837}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &990453997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 990453995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97a3613013213ff4bac8ff656ea05c6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Projectile: {fileID: 5945223985962078855, guid: 977102fcb86d9994c945cc8b6a43464b,
+    type: 3}
+  fireRate: 5
+--- !u!61 &990453998
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 990453995}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -1.6850655, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.370131, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &991747173
 GameObject:
   m_ObjectHideFlags: 0
@@ -5293,104 +5475,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.35862255, y: 2.7925968}
   m_EdgeRadius: 0
---- !u!1 &1053657583
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1053657586}
-  - component: {fileID: 1053657585}
-  - component: {fileID: 1053657584}
-  m_Layer: 0
-  m_Name: X4Explosion_0
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!111 &1053657584
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1053657583}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: 21e9186ebdd95cf41ae24f6760bf31b0, type: 2}
-  m_Animations:
-  - {fileID: 7400000, guid: 21e9186ebdd95cf41ae24f6760bf31b0, type: 2}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
---- !u!212 &1053657585
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1053657583}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -2611379922977128835, guid: 80c7e3669ff31f845ab6b9f0f3e77bd2,
-    type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.64, y: 0.62}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &1053657586
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1053657583}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.35, y: 0.09, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1106520257
 GameObject:
   m_ObjectHideFlags: 0
@@ -7922,6 +8006,7 @@ GameObject:
   - component: {fileID: 1630160075}
   - component: {fileID: 1630160074}
   - component: {fileID: 1630160077}
+  - component: {fileID: 1630160078}
   m_Layer: 0
   m_Name: SNES - Mega Man X - Enemies 1_0
   m_TagString: Enemy
@@ -8002,7 +8087,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1630160071}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -8014,7 +8099,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 7
 --- !u!61 &1630160075
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8075,6 +8160,18 @@ MonoBehaviour:
   Projectile: {fileID: 1468515731314897965, guid: 18714eb4c34ee60419454087bfe72724,
     type: 3}
   fireRate: 5
+--- !u!114 &1630160078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1630160071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5521976c372ca6f42b5da6f6f7722254, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1637668882
 GameObject:
   m_ObjectHideFlags: 0
@@ -8516,7 +8613,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1680516222}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 383892bc12a6ad2409023863f8792ad9, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -8952,7 +9049,7 @@ GameObject:
   - component: {fileID: 1749594928}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9950,6 +10047,7 @@ GameObject:
   - component: {fileID: 1972710399}
   - component: {fileID: 1972710401}
   - component: {fileID: 1972710400}
+  - component: {fileID: 1972710402}
   m_Layer: 0
   m_Name: SNES - Mega Man X - Enemies 1_105 (1)
   m_TagString: Enemy
@@ -10101,6 +10199,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &1972710402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1972710395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5521976c372ca6f42b5da6f6f7722254, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2002060113
 GameObject:
   m_ObjectHideFlags: 0
@@ -10405,7 +10515,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 2010403146}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 383892bc12a6ad2409023863f8792ad9, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -10699,7 +10809,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 2071709048}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 383892bc12a6ad2409023863f8792ad9, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0

@@ -30,6 +30,13 @@ public class lemonShot : MonoBehaviour
       
     }
 
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.transform.tag == "Enemy")
+        {
+            Destroy(gameObject);
+        }
+    }
     private void OnBecameInvisible()
     {
         Destroy(gameObject);

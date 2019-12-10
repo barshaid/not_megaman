@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
  
     private void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.transform.tag == "Enemy")
+        if (col.transform.tag == "Enemy" || col.transform.name == "Pit")
         {
 
             GetComponent<Animator>().SetBool("hurt", true);

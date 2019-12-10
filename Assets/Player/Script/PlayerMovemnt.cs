@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlayerMovemnt : MonoBehaviour
 {
-    private bool grounded = false;
     public float hSpeed = 3.0f;
     public float jForce = 3.0f;
     public LayerMask groundLayer;
@@ -49,8 +48,6 @@ public class PlayerMovemnt : MonoBehaviour
             GetComponent<Rigidbody2D>().AddForce(transform.up * jForce, ForceMode2D.Impulse);
             GetComponent<Animator>().SetBool("jump", true);
         }
-        else
-            GetComponent<Animator>().SetBool("jump", false);
         GetComponent<Animator>().SetBool("land", isGrounded());
 
 
@@ -71,6 +68,15 @@ public class PlayerMovemnt : MonoBehaviour
 
 
     
- 
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.transform.tag == "Platform")
+        {
+            
+            GetComponent<Animator>().SetBool("jump", false);
+        }
+
+
+    }
 }
  
