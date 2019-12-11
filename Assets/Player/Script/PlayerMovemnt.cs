@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class PlayerMovemnt : MonoBehaviour
 {
+    private bool start = false;
     public float hSpeed = 3.0f;
     public float jForce = 3.0f;
     public LayerMask groundLayer;
+
 
     bool isGrounded()
     {
@@ -28,42 +30,55 @@ public class PlayerMovemnt : MonoBehaviour
 
     void Update()
     {
-        //Time.timeScale = 0.1f;
-        Vector3 myScale = transform.localScale;
-        bool rotate = false;
-        
-
-        if (Input.GetAxis("Horizontal") < 0 && myScale.x > 0)
+        if (start)
         {
-            rotate = true;
-            
-        }
-        else if (Input.GetAxis("Horizontal") > 0 && myScale.x < 0)
-        {
-            rotate = true;
-        }
-
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded())
-        {
-            GetComponent<Rigidbody2D>().AddForce(transform.up * jForce, ForceMode2D.Impulse);
-            GetComponent<Animator>().SetBool("jump", true);
-        }
-        GetComponent<Animator>().SetBool("land", isGrounded());
+          
+            Vector3 myScale = transform.localScale;
+            bool rotate = false;
 
 
+            if (Input.GetAxis("Horizontal") < 0 && myScale.x > 0)
+            {
+                rotate = true;
 
-        if (rotate)
-        {
-            myScale.x = myScale.x * -1;
-            transform.localScale = myScale;
-        }
-        if (Input.GetAxis("Horizontal") == 0)
-        {
-            GetComponent<Animator>().SetFloat("speed", 0);
-        }
+            }
+            else if (Input.GetAxis("Horizontal") > 0 && myScale.x < 0)
+            {
+                rotate = true;
+            }
 
-        GetComponent<Animator>().SetFloat("speed", Mathf.Abs(Input.GetAxis("Horizontal")));
-        GetComponent<Rigidbody2D>().velocity = new Vector2(Input.GetAxis("Horizontal") * hSpeed, GetComponent<Rigidbody2D>().velocity.y);
+            if (Input.GetKeyDown(KeyCode.Space) && isGrounded())
+            {
+                GetComponent<Rigidbody2D>().AddForce(transform.up * jForce, ForceMode2D.Impulse);
+                GetComponent<Animator>().SetBool("jump", true);
+            }
+            GetComponent<Animator>().SetBool("land", isGrounded());
+
+
+
+            if (rotate)
+            {
+                myScale.x = myScale.x * -1;
+                transform.localScale = myScale;
+            }
+            if (Input.GetAxis("Horizontal") == 0)
+            {
+                GetComponent<Animator>().SetFloat("speed", 0);
+            }
+
+            GetComponent<Animator>().SetFloat("speed", Mathf.Abs(Input.GetAxis("Horizontal")));
+            GetComponent<Rigidbody2D>().velocity = new Vector2(Input.GetAxis("Horizontal") * hSpeed, GetComponent<Rigidbody2D>().velocity.y);
+
+            GetComponent<PlayerShooting>().shot();
+
+            if (!GameObject.FindGameObjectWithTag("Enemy"))
+            {
+                Time.timeScale = 0.5f;
+                GetComponent<Animator>().SetBool("win", true);
+                start = false;
+
+            }
+        }
     }
 
 
@@ -72,7 +87,7 @@ public class PlayerMovemnt : MonoBehaviour
     {
         if (col.transform.tag == "Platform")
         {
-            
+            start = true;
             GetComponent<Animator>().SetBool("jump", false);
         }
 

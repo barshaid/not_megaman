@@ -11,7 +11,7 @@ public class PlayerShooting : MonoBehaviour
 
     public float NextFire { get => nextFire; set => nextFire = value; }
 
-    void Update()
+    public void shot()
     {
         megabuster = transform.GetChild(0).transform.position;
         if (Input.GetKey(KeyCode.LeftControl))
